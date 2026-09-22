@@ -1,0 +1,11 @@
+{
+  "name": "openg7-social",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "opencode": "dotenv -e .env -- opencode"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^11.0.0"
+  }
+}
